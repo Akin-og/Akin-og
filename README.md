@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akintunde
+- 👋 Hi, I’m Akin
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on machine learning/ AI projects
